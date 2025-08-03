@@ -41,8 +41,7 @@ git clone https://github.com/Krushna-Chandra/loading-animation.git
 
 ## 🌐 Live Demo
 
-> *(Optional: Add a GitHub Pages or CodePen link here)*
-
+> [Live link](https://krushna-chandra.github.io/loading-animation/)
 ---
 
 ## 🧰 Built With
